@@ -21,3 +21,5 @@ Below are the links for each of the relevant blog posts. The list number corresp
 7. [Subsetting in Pandas Using .loc\[ \]](https://www.leeweimin.com/2018/12/09/subsetting-in-pandas-using-loc/)
 
 8. [How to Scrape Multiple Webpages using Python](https://www.leeweimin.com/2018/12/23/how-to-scrape-multiple-webpages-using-python/)
+
+9. [How to Use Pandas in Web Scraping](https://www.leeweimin.com/2018/12/29/how-to-use-pandas-in-web-scraping/)
